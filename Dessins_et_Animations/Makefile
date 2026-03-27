@@ -7,7 +7,7 @@ build:
 run: build
 	@java -cp out Main
 
-re: clean build run
+re: clean run
 
 clean:
 	@rm -rf out
