@@ -1,6 +1,4 @@
-# Projet Java - Exercice de Dessin et Animation
-
-Par défaut complexe mutable est exécuté. Pour lancer l'immutable, commentez/décommentez dans `Main.java`.
+# Projet Java - Exercice sur les Complexes
 
 ### Dépendances
 - **JDK 11+**

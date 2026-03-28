@@ -1,6 +1,4 @@
-# Projet Java - Exercice sur les Dessins et Animations
-
-Par défaut le dessin est exécuté. Pour lancer l'animation, commentez/décommentez dans `Main.java`.
+# Projet Java - Exercice concernant une Personne
 
 ### Dépendances
 - **JDK 11+**
